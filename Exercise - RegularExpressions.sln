@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.Furrniture", "P01.Furrniture\P01.Furrniture.csproj", "{96CEC252-B335-44BF-B64F-78EB35895A7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Furrniture", "P01.Furrniture\P01.Furrniture.csproj", "{96CEC252-B335-44BF-B64F-78EB35895A7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Race", "P02.Race\P02.Race.csproj", "{54EC8F1D-4626-4D0D-BA45-F3F1E719B86C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.Race", "P02.Race\P02.Race.csproj", "{54EC8F1D-4626-4D0D-BA45-F3F1E719B86C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniBarIncome", "SoftUniBarIncome\SoftUniBarIncome.csproj", "{A3E1C878-D417-484A-B84F-8983C063E78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniBarIncome", "SoftUniBarIncome\SoftUniBarIncome.csproj", "{A3E1C878-D417-484A-B84F-8983C063E78B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.StarEnigma", "P04.StarEnigma\P04.StarEnigma.csproj", "{C014F615-D550-4BCF-B078-F3490CFE725B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.StarEnigma", "P04.StarEnigma\P04.StarEnigma.csproj", "{C014F615-D550-4BCF-B078-F3490CFE725B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.NetherRealms", "P05.NetherRealms\P05.NetherRealms.csproj", "{8321EDE2-54EC-446A-817C-9BE74B4EC919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C014F615-D550-4BCF-B078-F3490CFE725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C014F615-D550-4BCF-B078-F3490CFE725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C014F615-D550-4BCF-B078-F3490CFE725B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8321EDE2-54EC-446A-817C-9BE74B4EC919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8321EDE2-54EC-446A-817C-9BE74B4EC919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8321EDE2-54EC-446A-817C-9BE74B4EC919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8321EDE2-54EC-446A-817C-9BE74B4EC919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
